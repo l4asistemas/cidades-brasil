@@ -1,0 +1,13 @@
+{
+    "name": "l4asistemas/cidades-brasil",
+    "description": "Laravel's Migrations and Seeders for Brazilian States and Cities",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Artur Afonso",
+            "email": "arturafonso@arturafonso.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
