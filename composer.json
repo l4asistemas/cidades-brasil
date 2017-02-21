@@ -9,5 +9,8 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "psr-4": {
+        "L4ASistemas\\CidadesBrasil\\": "src/"
+    }
 }
